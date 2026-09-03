@@ -6,8 +6,6 @@ Saya merupakan mahasiswa **Teknologi Informasi di Universitas Udayana** yang mem
 
 Saya senang mempelajari teknologi baru, membangun aplikasi, serta mengembangkan solusi berbasis teknologi yang dapat membantu menyelesaikan permasalahan di dunia nyata.
 
-Saat ini saya banyak berfokus pada pengembangan aplikasi berbasis **Web menggunakan Next.js, React, Tailwind CSS, Prisma, dan MySQL**.
-
 ---
 
 ## 🚀 About Me
@@ -16,11 +14,11 @@ Saat ini saya banyak berfokus pada pengembangan aplikasi berbasis **Web mengguna
 * 💻 Fokus pada **Web Development & Software Development**
 * 🌐 Berpengalaman membangun aplikasi berbasis **Next.js & React**
 * 🎨 Tertarik dengan **UI/UX Design & Graphic Design**
-* 🗄️ Memahami penggunaan **MySQL, Prisma ORM, dan database management**
+* 🗄️ Memahami penggunaan MySQL, Prisma ORM, Laravel, dan database management
 * 🗺️ Tertarik dengan integrasi **Maps & Location-based System**
 * 🤖 Pernah mengembangkan integrasi **Telegram Bot & Notification System**
 * 📚 Sedang terus meningkatkan kemampuan **Programming & English**
-* ⚽ Di luar coding, saya suka **membaca, bermain sepak bola, voli, menonton film, dan mendengarkan musik**
+* ⚽ Di luar coding, saya suka **membaca, dan mendengarkan musik**
 
 ---
 
