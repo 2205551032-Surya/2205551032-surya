@@ -15,8 +15,6 @@ Saya senang mempelajari teknologi baru, membangun aplikasi, serta mengembangkan 
 * 🌐 Berpengalaman membangun aplikasi berbasis **Next.js & React**
 * 🎨 Tertarik dengan **UI/UX Design & Graphic Design**
 * 🗄️ Memahami penggunaan MySQL, Prisma ORM, Laravel, dan database management
-* 🗺️ Tertarik dengan integrasi **Maps & Location-based System**
-* 🤖 Pernah mengembangkan integrasi **Telegram Bot & Notification System**
 * 📚 Sedang terus meningkatkan kemampuan **Programming & English**
 * ⚽ Di luar coding, saya suka **membaca, dan mendengarkan musik**
 
