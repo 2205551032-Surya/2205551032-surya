@@ -44,34 +44,6 @@ Saya senang mempelajari teknologi baru, membangun aplikasi, serta mengembangkan 
 
 ---
 
-## 📌 Featured Project
-
-### 🚑 Sistem Informasi Antar Jemput Pasien (SI-AJP)
-
-**SI-AJP** merupakan sistem informasi berbasis web yang saya kembangkan sebagai tugas akhir dengan studi kasus pada **Dinas Kesehatan Kabupaten Karangasem**.
-
-Sistem ini dirancang untuk membantu proses pengelolaan layanan **Antar Jemput Pasien (AJP)**, mulai dari pengajuan layanan oleh warga hingga pengelolaan perjalanan dan laporan.
-
-### ✨ Fitur Utama
-
-* 📝 Pengajuan Antar Pasien
-* 🚗 Pengajuan Jemput Pasien
-* 💊 Layanan Antar Obat
-* 👨‍✈️ Penugasan Sopir
-* 📋 Verifikasi Pengajuan
-* 🗺️ Tracking Perjalanan
-* 📍 Integrasi Maps
-* 🔔 Sistem Notifikasi
-* 🤖 Integrasi Telegram Bot
-* 📊 Manajemen Laporan
-* 👥 Manajemen Pengguna
-* 📅 Penjadwalan Layanan
-* ⭐ Penilaian Kinerja Sopir
-
-### 🔧 Teknologi
-
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Prisma ORM` • `MySQL` • `Supabase` • `Google Maps API` • `Telegram Bot`
-
 ---
 
 ## 💡 Other Projects
