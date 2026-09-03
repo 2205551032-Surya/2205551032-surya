@@ -145,7 +145,7 @@ Jika kamu tertarik untuk berdiskusi, berkolaborasi, atau sekadar berkenalan, jan
   <a href="LINK_INSTAGRAM_KAMU">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="LINK_PORTFOLIO_KAMU">
+  <a href="[LINK_PORTFOLIO_KAMU](https://2205551032-surya.github.io/Portfolio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafh0qeN57f2ebd3tH7TC7N9VrYP52mtzgy3C46l7ki2MqdIuoiuxjPjU9MVmA_aem_ciaSIkFhicHe4cZY7NEFzQ)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
