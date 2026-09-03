@@ -44,31 +44,11 @@ Saya senang mempelajari teknologi baru, membangun aplikasi, serta mengembangkan 
 
 ---
 
----
-
-## 💡 Other Projects
-
-### 📊 SmartGrade
-
-Sistem informasi untuk membantu pengelolaan dan pengolahan nilai siswa.
-
-**Tech:** `Web Development` • `Database` • `Information System`
-
----
-
-### 🌱 Sistem Pendukung Keputusan
-
-Project sistem pendukung keputusan menggunakan metode **Analytical Hierarchy Process (AHP)** untuk membantu proses rekomendasi pemilihan jenis pupuk.
-
-**Tech:** `AHP` • `Decision Support System` • `Database`
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2205551032-Surya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2205551032-Surya&layout=compact&theme=algolia"/>
 </p>
 
 ---
@@ -76,7 +56,7 @@ Project sistem pendukung keputusan menggunakan metode **Analytical Hierarchy Pro
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2205551032-Surya&theme=algolia" />
 </p>
 
 ---
