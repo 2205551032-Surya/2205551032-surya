@@ -122,7 +122,7 @@ Saat ini saya sedang terus mengembangkan kemampuan dalam:
 * ☁️ Deployment & Cloud Computing
 * 🧪 Software Testing
 * 🇬🇧 English Communication
-* 🧠 Problem Solving & Software Engineering
+* 🧠 Problem Solving
 
 ---
 
